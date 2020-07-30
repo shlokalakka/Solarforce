@@ -1,6 +1,6 @@
 # solarforce
 
-A new Flutter application.
+🚀 A Space micro-blogging application built on Flutter and designed on Figma to bring the experience of outer space to you on Earth.
 
 ## Getting Started
 
